@@ -8744,7 +8744,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1_I-SYST_inc:Dock_Pads_6Pin"
 			(at 242.57 62.23 0)
 			(effects
 				(font
@@ -9536,7 +9536,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal"
 			(at 242.57 36.83 0)
 			(effects
 				(font
@@ -10099,7 +10099,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 242.57 104.14 0)
 			(effects
 				(font
@@ -11374,7 +11374,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
 			(at 168.91 139.7 0)
 			(effects
 				(font
@@ -11383,7 +11383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ceva-ip.com/wp-content/uploads/BNO080_085-Datasheet.pdf"
 			(at 168.91 139.7 0)
 			(effects
 				(font
