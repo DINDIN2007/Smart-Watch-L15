@@ -10099,7 +10099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "1_I-SYST_inc:OLED_1.3in_I2C"
 			(at 242.57 104.14 0)
 			(effects
 				(font
@@ -11374,7 +11374,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
+		(property "Footprint" "1_I-SYST_inc:BNO085_Module"
 			(at 168.91 139.7 0)
 			(effects
 				(font
