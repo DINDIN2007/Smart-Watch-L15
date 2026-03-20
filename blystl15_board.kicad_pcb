@@ -152,7 +152,7 @@
 		(property "Reference" "C1"
 			(at -2.425 -0.01 0)
 			(layer "F.SilkS")
-			(uuid "2bf952cf-f4a0-4d42-a132-4e7d6aa5fd38")
+			(uuid "e06ee952-0836-4381-ac79-f6e15325e392")
 			(effects
 				(font
 					(size 1 1)
@@ -164,7 +164,7 @@
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27c6ddd0-40cd-4e6f-b35b-957319c0c541")
+			(uuid "01f52d5e-4523-4dca-9897-057d3a734793")
 			(effects
 				(font
 					(size 1 1)
@@ -176,7 +176,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6550aa30-49b7-4689-84f6-671c514882da")
+			(uuid "5b379554-805a-4bb4-850a-845b79a9a206")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -188,7 +188,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a11167b5-218e-414f-8181-abcb3bcc15ed")
+			(uuid "dcf2f816-96f8-4dc0-908d-b24f6f5a8a65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -573,7 +573,6 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/13845710-6025-4c34-a050-e5a0abff6ad2")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -670,7 +669,7 @@
 		(property "Reference" "C2"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
-			(uuid "0c7578da-7476-4419-b2e5-0b0f9592d7ad")
+			(uuid "92db0186-17e7-4107-a372-f2e314bf77be")
 			(effects
 				(font
 					(size 1 1)
@@ -682,7 +681,7 @@
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5eb85614-9bb6-4b9e-98cf-b7c0cf6eba10")
+			(uuid "bb35e4b1-196f-4924-bab7-0ca5f1f7b437")
 			(effects
 				(font
 					(size 1 1)
@@ -694,7 +693,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9a6c45f-16bf-4220-b481-81488d1c607e")
+			(uuid "10beba1e-8250-4ea7-97fd-9a9b613f9d87")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -706,7 +705,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "34ef1d32-112d-4949-a089-f6060d91692e")
+			(uuid "5bbd1d66-0243-4b72-8607-3381a3d47504")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -928,7 +927,7 @@
 		(property "Reference" "M1"
 			(at -1.0135 -4.5 90)
 			(layer "F.SilkS")
-			(uuid "f07aabfb-4492-43c9-83bb-2cc1da7a230a")
+			(uuid "549e12c6-6119-465e-bca9-9f196a079a1e")
 			(effects
 				(font
 					(size 1 1)
@@ -939,7 +938,7 @@
 		(property "Value" "~"
 			(at -1.0135 4.5 90)
 			(layer "F.Fab")
-			(uuid "89a24e06-e266-4ece-a157-e57822f66f3b")
+			(uuid "b4816a81-ad85-40c3-938c-aa13da196140")
 			(effects
 				(font
 					(size 1 1)
@@ -951,7 +950,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b7d95bf5-5480-41a7-b270-c7c125d34b67")
+			(uuid "63aaafa3-628f-478d-99b8-53eff02802b6")
 			(effects
 				(font
 					(size 1 1)
@@ -963,7 +962,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15254b4d-52cf-4f66-8ffd-a57fe60304b6")
+			(uuid "905c6ee7-39b8-42cc-9959-d5b36163c026")
 			(effects
 				(font
 					(size 1 1)
@@ -1579,7 +1578,6 @@
 				)
 			)
 		)
-		(path "/c49f1fca-3c82-4819-9094-96260f7329e9")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -1988,7 +1986,6 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/826845af-a227-4ae0-bc94-e36aed66d91a")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -2591,7 +2588,6 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/4a4852e4-28f5-4cd2-b8d8-a6818affe47e")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -2852,7 +2848,6 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/7df342c3-b1c6-4366-b383-35d5da4f1691")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -3111,7 +3106,6 @@
 				)
 			)
 		)
-		(path "/b23e462b-c48c-406c-a87a-a573a840fd6d")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -3521,7 +3515,6 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/2e959944-6c1e-4439-bf3a-51bf1c636ab8")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -3764,7 +3757,6 @@
 				)
 			)
 		)
-		(path "/235e8a67-35f8-43fc-81a6-b34b350c3971")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -4497,7 +4489,6 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/880f3837-2760-4dac-9e72-c2783fb151a9")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -4757,7 +4748,6 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/eb549c19-1603-441e-93d3-6d7f8501f107")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -5176,7 +5166,6 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d0324606-dd64-4a19-9202-332ec9e624eb")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -5435,7 +5424,6 @@
 				)
 			)
 		)
-		(path "/d862692a-3bee-4db6-a75c-956fdf221dd0")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -5845,7 +5833,6 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/5e189d08-03d1-4d88-bb7f-d630a0e3be48")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -6106,7 +6093,6 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/971dda6d-38e2-44ff-a920-ddbe922731ea")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -6290,7 +6276,6 @@
 			)
 		)
 		(property ki_fp_filters "21-100265_MXM")
-		(path "/3c4f0a06-acae-433d-a43f-494471fc8276")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -6797,7 +6782,6 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/692bc3ac-e2fe-4cb3-a3b3-59b40600a109")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
@@ -6953,7 +6937,6 @@
 			)
 		)
 		(property ki_fp_filters "21-1048_F143A5+1_MXM 21-1048_F143A5+1_MXM-M 21-1048_F143A5+1_MXM-L")
-		(path "/1bb41510-3ecb-4cdf-b32c-65444960103f")
 		(sheetname "/")
 		(sheetfile "blystl15_board.kicad_sch")
 		(attr smd)
