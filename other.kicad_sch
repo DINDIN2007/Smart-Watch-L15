@@ -1948,7 +1948,7 @@
 	)
 	(text "OLED Display"
 		(exclude_from_sim no)
-		(at 77.978 31.75 0)
+		(at 77.47 39.116 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -1968,7 +1968,7 @@
 	)
 	(text "Configurable Buttons"
 		(exclude_from_sim no)
-		(at 192.532 34.544 0)
+		(at 192.532 38.354 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -1978,7 +1978,7 @@
 	)
 	(text "External SPI Flash Memory"
 		(exclude_from_sim no)
-		(at 162.052 106.172 0)
+		(at 164.592 106.172 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -2027,49 +2027,37 @@
 		(uuid "f2cf4de8-7d03-42b2-9694-e65d90b1cb02")
 	)
 	(junction
-		(at 81.28 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0491ca65-244e-4caf-8009-11513aefb386")
-	)
-	(junction
 		(at 107.95 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0b106943-31ee-4967-95ee-3ff40e458795")
 	)
 	(junction
-		(at 194.31 46.99)
+		(at 194.31 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d876b30-6be7-4c85-80b9-6fd34e39f8de")
 	)
 	(junction
-		(at 170.18 43.18)
+		(at 170.18 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19921df4-adc0-4a60-861f-5ecab8cae5a8")
 	)
 	(junction
-		(at 194.31 50.8)
+		(at 194.31 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31d7804f-a14a-473d-a5a9-e5ce9ebe2bb7")
 	)
 	(junction
-		(at 187.96 109.22)
+		(at 190.5 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35e1923a-0e8a-4374-9ea2-7179aaeeac62")
 	)
 	(junction
-		(at 81.28 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "524ba49b-e697-402e-9a62-d5bc22d3197b")
-	)
-	(junction
-		(at 170.18 50.8)
+		(at 170.18 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d92ddea-045b-4d8b-8a03-c5b9194810f4")
@@ -2081,34 +2069,22 @@
 		(uuid "5ebc0a76-d691-4148-8a59-71015b77a723")
 	)
 	(junction
-		(at 156.21 119.38)
+		(at 158.75 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83dde68e-17a4-40b1-b5a0-dfa6da020864")
 	)
 	(junction
-		(at 85.09 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a65f6ebc-8c20-4434-a11b-68a169ae3832")
-	)
-	(junction
-		(at 213.36 109.22)
+		(at 215.9 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a72edbd5-24e7-486d-ba64-edc9a8706a07")
 	)
 	(junction
-		(at 213.36 114.3)
+		(at 215.9 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6c5e9c3-f7f4-48b2-9072-5166b1749c30")
-	)
-	(junction
-		(at 92.71 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e173fdf6-acc6-402f-839e-9bef78dd0acf")
 	)
 	(junction
 		(at 107.95 133.35)
@@ -2123,13 +2099,13 @@
 		(uuid "e7abf7cf-5c26-4398-8729-eb1057584854")
 	)
 	(junction
-		(at 162.56 109.22)
+		(at 165.1 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb9426fe-1e53-49b0-a7a5-9cdf6d4c1aca")
 	)
 	(junction
-		(at 218.44 46.99)
+		(at 218.44 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f646188c-d278-4fe6-8f76-4b817082a78a")
@@ -2140,7 +2116,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 124.46) (xy 219.71 124.46)
+			(xy 209.55 124.46) (xy 222.25 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2160,7 +2136,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 50.8) (xy 170.18 52.07)
+			(xy 170.18 54.61) (xy 170.18 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2190,7 +2166,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 43.18) (xy 194.31 46.99)
+			(xy 194.31 46.99) (xy 194.31 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2200,7 +2176,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 109.22) (xy 213.36 114.3)
+			(xy 215.9 109.22) (xy 215.9 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2220,16 +2196,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 49.53) (xy 85.09 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23962625-4d10-407a-bc86-9717a0d6fdcf")
-	)
-	(wire
-		(pts
 			(xy 74.93 58.42) (xy 81.28 58.42)
 		)
 		(stroke
@@ -2240,7 +2206,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 46.99) (xy 194.31 46.99)
+			(xy 201.93 50.8) (xy 194.31 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2250,7 +2216,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 43.18) (xy 170.18 43.18)
+			(xy 162.56 46.99) (xy 170.18 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2260,7 +2226,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 40.64) (xy 81.28 41.91)
+			(xy 81.28 46.99) (xy 81.28 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2270,7 +2236,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 110.49) (xy 156.21 109.22)
+			(xy 158.75 110.49) (xy 158.75 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2280,17 +2246,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 41.91) (xy 81.28 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39f12346-5e6d-4eda-83d2-9d6100c4f8fc")
-	)
-	(wire
-		(pts
-			(xy 224.79 46.99) (xy 218.44 46.99)
+			(xy 224.79 50.8) (xy 218.44 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2300,7 +2256,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 119.38) (xy 156.21 119.38)
+			(xy 152.4 119.38) (xy 158.75 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2310,7 +2266,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 114.3) (xy 220.98 114.3)
+			(xy 215.9 114.3) (xy 223.52 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2330,7 +2286,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 50.8) (xy 176.53 50.8)
+			(xy 170.18 54.61) (xy 176.53 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2340,17 +2296,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 41.91) (xy 85.09 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "411a147b-cfe2-491e-8e55-1550d732208f")
-	)
-	(wire
-		(pts
-			(xy 162.56 50.8) (xy 170.18 50.8)
+			(xy 162.56 54.61) (xy 170.18 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2370,7 +2316,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 33.02) (xy 170.18 34.29)
+			(xy 170.18 36.83) (xy 170.18 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2380,7 +2326,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 127) (xy 162.56 135.89)
+			(xy 165.1 127) (xy 165.1 135.89)
 		)
 		(stroke
 			(width 0)
@@ -2390,7 +2336,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 118.11) (xy 156.21 119.38)
+			(xy 158.75 118.11) (xy 158.75 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2407,16 +2353,6 @@
 			(type default)
 		)
 		(uuid "575bde94-6e30-4ea6-aa88-dae255dd96bd")
-	)
-	(wire
-		(pts
-			(xy 74.93 53.34) (xy 85.09 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d2e3b9b-8bf4-41cf-ae76-a4954968c784")
 	)
 	(wire
 		(pts
@@ -2440,7 +2376,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 109.22) (xy 162.56 109.22)
+			(xy 158.75 109.22) (xy 165.1 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2450,17 +2386,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 41.91) (xy 92.71 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6466f464-0ced-4943-b2b7-fcb9f923ae48")
-	)
-	(wire
-		(pts
-			(xy 218.44 46.99) (xy 212.09 46.99)
+			(xy 218.44 50.8) (xy 212.09 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2480,7 +2406,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 55.88) (xy 218.44 57.15)
+			(xy 218.44 59.69) (xy 218.44 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2490,7 +2416,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 53.34) (xy 99.06 53.34)
+			(xy 74.93 53.34) (xy 88.9 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2520,7 +2446,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 127) (xy 162.56 127)
+			(xy 171.45 127) (xy 165.1 127)
 		)
 		(stroke
 			(width 0)
@@ -2530,7 +2456,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 41.91) (xy 170.18 43.18)
+			(xy 170.18 45.72) (xy 170.18 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2540,7 +2466,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 43.18) (xy 186.69 43.18)
+			(xy 194.31 46.99) (xy 186.69 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2560,7 +2486,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 127) (xy 219.71 127)
+			(xy 209.55 127) (xy 222.25 127)
 		)
 		(stroke
 			(width 0)
@@ -2570,7 +2496,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 109.22) (xy 217.17 109.22)
+			(xy 215.9 109.22) (xy 219.71 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2580,7 +2506,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 109.22) (xy 162.56 124.46)
+			(xy 165.1 109.22) (xy 165.1 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2590,7 +2516,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 119.38) (xy 213.36 119.38)
+			(xy 209.55 119.38) (xy 215.9 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2600,33 +2526,13 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 46.99) (xy 218.44 48.26)
+			(xy 218.44 50.8) (xy 218.44 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8c6aa5ef-095e-4383-9740-c6dec4d65419")
-	)
-	(wire
-		(pts
-			(xy 81.28 39.37) (xy 81.28 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fcdb437-1bdd-478f-ab4c-9c5e50eabe0a")
-	)
-	(wire
-		(pts
-			(xy 81.28 40.64) (xy 92.71 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "906a65dd-72fb-428f-909b-0fa8456e36fc")
 	)
 	(wire
 		(pts
@@ -2640,7 +2546,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 114.3) (xy 213.36 119.38)
+			(xy 215.9 114.3) (xy 215.9 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2650,7 +2556,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 114.3) (xy 228.6 114.3)
+			(xy 233.68 114.3) (xy 231.14 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2660,7 +2566,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 121.92) (xy 168.91 121.92)
+			(xy 152.4 121.92) (xy 171.45 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2680,7 +2586,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 43.18) (xy 176.53 43.18)
+			(xy 170.18 46.99) (xy 176.53 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2690,7 +2596,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 109.22) (xy 213.36 109.22)
+			(xy 190.5 109.22) (xy 215.9 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2700,7 +2606,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 50.8) (xy 99.06 50.8)
+			(xy 74.93 50.8) (xy 88.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2710,7 +2616,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 50.8) (xy 194.31 50.8)
+			(xy 186.69 54.61) (xy 194.31 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2720,7 +2626,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 50.8) (xy 194.31 54.61)
+			(xy 194.31 54.61) (xy 194.31 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2730,7 +2636,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 119.38) (xy 168.91 119.38)
+			(xy 158.75 119.38) (xy 171.45 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2750,7 +2656,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 124.46) (xy 168.91 124.46)
+			(xy 165.1 124.46) (xy 171.45 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2760,7 +2666,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 121.92) (xy 217.17 121.92)
+			(xy 209.55 121.92) (xy 219.71 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2770,17 +2676,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 49.53) (xy 92.71 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d48f2a70-d9f7-442a-a630-ceb886e0d82f")
-	)
-	(wire
-		(pts
-			(xy 217.17 109.22) (xy 217.17 121.92)
+			(xy 219.71 109.22) (xy 219.71 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2800,7 +2696,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 59.69) (xy 170.18 60.96)
+			(xy 170.18 63.5) (xy 170.18 64.77)
 		)
 		(stroke
 			(width 0)
@@ -2820,7 +2716,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 109.22) (xy 187.96 109.22)
+			(xy 165.1 109.22) (xy 190.5 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2830,7 +2726,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 106.68) (xy 187.96 109.22)
+			(xy 190.5 106.68) (xy 190.5 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2840,7 +2736,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 116.84) (xy 231.14 114.3)
+			(xy 233.68 116.84) (xy 233.68 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2850,7 +2746,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 46.99) (xy 194.31 50.8)
+			(xy 194.31 50.8) (xy 194.31 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2858,19 +2754,9 @@
 		)
 		(uuid "fb200ad1-c74b-40fd-9c9c-9d322a3af6e9")
 	)
-	(wire
-		(pts
-			(xy 74.93 50.8) (xy 92.71 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feae9b66-f161-4e0b-a16f-24fb233b4dd6")
-	)
-	(hierarchical_label "P0.09"
+	(hierarchical_label "P2.00"
 		(shape input)
-		(at 224.79 46.99 0)
+		(at 224.79 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2892,7 +2778,7 @@
 	)
 	(hierarchical_label "P1.10"
 		(shape input)
-		(at 99.06 53.34 0)
+		(at 88.9 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2903,7 +2789,7 @@
 	)
 	(hierarchical_label "P2.06"
 		(shape input)
-		(at 219.71 127 0)
+		(at 222.25 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2914,7 +2800,7 @@
 	)
 	(hierarchical_label "P1.08"
 		(shape input)
-		(at 162.56 43.18 180)
+		(at 162.56 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2925,7 +2811,7 @@
 	)
 	(hierarchical_label "P2.05"
 		(shape input)
-		(at 219.71 124.46 0)
+		(at 222.25 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2936,7 +2822,7 @@
 	)
 	(hierarchical_label "P1.09"
 		(shape input)
-		(at 99.06 50.8 0)
+		(at 88.9 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2958,7 +2844,7 @@
 	)
 	(hierarchical_label "P2.04"
 		(shape input)
-		(at 149.86 119.38 180)
+		(at 152.4 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2969,7 +2855,7 @@
 	)
 	(hierarchical_label "P0.03"
 		(shape input)
-		(at 162.56 50.8 180)
+		(at 162.56 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2980,7 +2866,7 @@
 	)
 	(hierarchical_label "P2.07"
 		(shape input)
-		(at 149.86 121.92 180)
+		(at 152.4 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3083,7 +2969,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 170.18 38.1 0)
+		(at 170.18 41.91 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3094,7 +2980,7 @@
 		(dnp no)
 		(uuid "13845710-6025-4c34-a050-e5a0abff6ad2")
 		(property "Reference" "C4"
-			(at 167.64 36.83 0)
+			(at 167.64 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3105,7 +2991,7 @@
 			)
 		)
 		(property "Value" "0.01 μF"
-			(at 167.64 39.37 0)
+			(at 167.64 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3116,7 +3002,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 169.2148 41.91 0)
+			(at 169.2148 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3127,7 +3013,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0402YC103KAT2A-62/11268984"
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3138,7 +3024,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3149,7 +3035,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3160,7 +3046,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3171,7 +3057,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3182,7 +3068,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3193,7 +3079,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3204,7 +3090,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3215,7 +3101,7 @@
 			)
 		)
 		(property "Price" "0.1"
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3226,7 +3112,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3237,7 +3123,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 170.18 38.1 0)
+			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3264,7 +3150,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 162.56 135.89 0)
+		(at 165.1 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3275,7 +3161,7 @@
 		(fields_autoplaced yes)
 		(uuid "15763409-710e-4888-8793-be4214c2794e")
 		(property "Reference" "#PWR027"
-			(at 162.56 142.24 0)
+			(at 165.1 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3286,7 +3172,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 140.97 0)
+			(at 165.1 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3296,7 +3182,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 135.89 0)
+			(at 165.1 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3307,7 +3193,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 135.89 0)
+			(at 165.1 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3318,7 +3204,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 162.56 135.89 0)
+			(at 165.1 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3335,186 +3221,6 @@
 			(project "blystl15_board"
 				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5/964668c7-d601-429e-a5dc-99235a114505"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 92.71 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2e959944-6c1e-4439-bf3a-51bf1c636ab8")
-		(property "Reference" "R1"
-			(at 94.234 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7kΩ"
-			(at 94.234 46.736 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 90.932 45.72 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Availability" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Check_prices" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description_1" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MP" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purchase-URL" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 92.71 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d5840de6-07c6-4adc-960f-ec87b7c3b6ef")
-		)
-		(pin "2"
-			(uuid "96ffa912-d95c-4af6-b5ea-6d1914bc2e91")
-		)
-		(instances
-			(project "blystl15_board"
-				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5/964668c7-d601-429e-a5dc-99235a114505"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3551,7 +3257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1_I-SYST_inc:SON65P200X200X65-7N"
+		(property "Footprint" "1_I_Syst.inc:SON65P200X200X65-7N"
 			(at 80.518 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4132,7 +3838,7 @@
 	)
 	(symbol
 		(lib_id "I_Syst_inc:W25Q80DVSSIG")
-		(at 187.96 123.19 0)
+		(at 190.5 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4142,7 +3848,7 @@
 		(dnp no)
 		(uuid "5ae82470-a629-4655-a25f-777fe55d3503")
 		(property "Reference" "U6"
-			(at 177.8 113.03 0)
+			(at 180.34 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4152,7 +3858,7 @@
 			)
 		)
 		(property "Value" "W25Q80DVSSIG"
-			(at 185.166 133.604 0)
+			(at 187.706 133.604 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4161,8 +3867,8 @@
 				)
 			)
 		)
-		(property "Footprint" "1_I-SYST_inc:WIN_SS-8_WIN-L"
-			(at 166.624 113.538 0)
+		(property "Footprint" "1_I_Syst.inc:WIN_SS-8_WIN-L"
+			(at 169.164 113.538 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4174,7 +3880,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/winbond-electronics/W25Q80DVSSIG/4836572?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gclid=Cj0KCQjw4PPNBhD8ARIsAMo-icyS9I4iRFE7e9_oX7jR6CftiS92EvA5r8Tu69t2M5CybyfIO6s-Et0aAkiaEALw_wcB"
-			(at 166.624 111.76 0)
+			(at 169.164 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4186,7 +3892,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 123.19 0)
+			(at 190.5 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4197,7 +3903,7 @@
 			)
 		)
 		(property "Price" "0.55"
-			(at 187.96 123.19 0)
+			(at 190.5 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4242,7 +3948,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 187.96 106.68 0)
+		(at 190.5 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4252,7 +3958,7 @@
 		(dnp no)
 		(uuid "5b8c78a5-0ce9-4b88-bcd0-ebbf560aa4c0")
 		(property "Reference" "#PWR028"
-			(at 187.96 110.49 0)
+			(at 190.5 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4263,7 +3969,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 187.96 103.124 0)
+			(at 190.5 103.124 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4273,7 +3979,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 106.68 0)
+			(at 190.5 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4284,7 +3990,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 106.68 0)
+			(at 190.5 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4295,7 +4001,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 187.96 106.68 0)
+			(at 190.5 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4319,7 +4025,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 170.18 55.88 0)
+		(at 170.18 59.69 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4330,7 +4036,7 @@
 		(dnp no)
 		(uuid "5e189d08-03d1-4d88-bb7f-d630a0e3be48")
 		(property "Reference" "C5"
-			(at 167.64 54.61 0)
+			(at 167.64 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4341,7 +4047,7 @@
 			)
 		)
 		(property "Value" "0.01 μF"
-			(at 167.64 57.15 0)
+			(at 167.64 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4352,7 +4058,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 169.2148 59.69 0)
+			(at 169.2148 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4363,7 +4069,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0402YC103KAT2A-62/11268984"
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4374,7 +4080,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4385,7 +4091,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4396,7 +4102,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4407,7 +4113,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4418,7 +4124,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4429,7 +4135,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4440,7 +4146,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4451,7 +4157,7 @@
 			)
 		)
 		(property "Price" "0.1"
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4462,7 +4168,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4473,7 +4179,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 170.18 55.88 0)
+			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4500,7 +4206,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 170.18 33.02 180)
+		(at 170.18 36.83 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4511,7 +4217,7 @@
 		(fields_autoplaced yes)
 		(uuid "775bb066-9c56-44b3-85de-b235a138d26a")
 		(property "Reference" "#PWR022"
-			(at 170.18 26.67 0)
+			(at 170.18 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4522,7 +4228,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 170.18 27.94 0)
+			(at 170.18 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4532,7 +4238,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 33.02 0)
+			(at 170.18 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4543,7 +4249,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 33.02 0)
+			(at 170.18 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4554,7 +4260,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 170.18 33.02 0)
+			(at 170.18 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4578,7 +4284,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 81.28 39.37 0)
+		(at 81.28 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4588,7 +4294,7 @@
 		(dnp no)
 		(uuid "8181a625-1ab3-445a-97cb-e3873076cdeb")
 		(property "Reference" "#PWR010"
-			(at 81.28 43.18 0)
+			(at 81.28 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4599,7 +4305,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 81.28 35.814 0)
+			(at 81.28 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4609,7 +4315,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 39.37 0)
+			(at 81.28 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4620,7 +4326,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 39.37 0)
+			(at 81.28 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4631,7 +4337,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 81.28 39.37 0)
+			(at 81.28 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4655,7 +4361,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 156.21 114.3 0)
+		(at 158.75 114.3 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4665,8 +4371,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "839ef0ae-a5de-4f88-834c-feaa54f249f9")
-		(property "Reference" "R9"
-			(at 154.94 113.03 0)
+		(property "Reference" "R6"
+			(at 157.48 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4677,7 +4383,7 @@
 			)
 		)
 		(property "Value" "10kΩ"
-			(at 154.94 115.316 0)
+			(at 157.48 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4688,7 +4394,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 157.988 114.3 90)
+			(at 160.528 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4699,7 +4405,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4710,7 +4416,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4721,7 +4427,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4438,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4743,7 +4449,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4754,7 +4460,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4765,7 +4471,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4776,7 +4482,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4787,7 +4493,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4798,7 +4504,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4809,7 +4515,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 156.21 114.3 0)
+			(at 158.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4828,187 +4534,7 @@
 		(instances
 			(project "blystl15_board"
 				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5/964668c7-d601-429e-a5dc-99235a114505"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 85.09 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "880f3837-2760-4dac-9e72-c2783fb151a9")
-		(property "Reference" "R2"
-			(at 86.36 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7kΩ"
-			(at 86.36 46.736 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 83.312 45.72 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Availability" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Check_prices" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description_1" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MP" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Purchase-URL" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 85.09 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "394f4729-c1cf-47dd-9b0a-8df7a51927a9")
-		)
-		(pin "2"
-			(uuid "9fffa519-6fb3-4bb6-b924-10e7ca0141ab")
-		)
-		(instances
-			(project "blystl15_board"
-				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5/964668c7-d601-429e-a5dc-99235a114505"
-					(reference "R2")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -5016,7 +4542,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 170.18 60.96 0)
+		(at 170.18 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5027,7 +4553,7 @@
 		(fields_autoplaced yes)
 		(uuid "88881dda-8abd-44e4-a615-ba069ab7fb0e")
 		(property "Reference" "#PWR021"
-			(at 170.18 67.31 0)
+			(at 170.18 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5038,7 +4564,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 170.18 66.04 0)
+			(at 170.18 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5048,7 +4574,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 60.96 0)
+			(at 170.18 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5059,7 +4585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 60.96 0)
+			(at 170.18 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5070,7 +4596,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 170.18 60.96 0)
+			(at 170.18 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5201,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1_I-SYST_inc:OLED_1.3in_I2C"
+		(property "Footprint" "1_I_Syst.inc:OLED_1.3in_I2C"
 			(at 69.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5212,7 +4738,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.amazon.ca/Display-Module-Communicate-128X64-Response/dp/B085RYQHQB/ref=asc_df_B085RYQHQB?mcid=b040a688731334268269e98a3a64e2c0&tag=googleshopc0c-20&linkCode=df0&hvadid=706827341273&hvpos=&hvnetw=g&hvrand=2157753383832528583&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000664&hvtargid=pla-2062874523825&psc=1&hvocijid=2157753383832528583-B085RYQHQB-&hvexpln=0&gad_source=1"
 			(at 69.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5300,7 +4826,7 @@
 				)
 			)
 		)
-		(property "Price" ""
+		(property "Price" "10.98"
 			(at 69.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5356,7 +4882,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 231.14 116.84 0)
+		(at 233.68 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5367,7 +4893,7 @@
 		(fields_autoplaced yes)
 		(uuid "a24d9377-d922-4a01-8015-a91dce1f3c3b")
 		(property "Reference" "#PWR026"
-			(at 231.14 123.19 0)
+			(at 233.68 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5378,7 +4904,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 231.14 121.92 0)
+			(at 233.68 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5388,7 +4914,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 116.84 0)
+			(at 233.68 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5399,7 +4925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 116.84 0)
+			(at 233.68 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5410,7 +4936,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 231.14 116.84 0)
+			(at 233.68 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5512,7 +5038,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 218.44 57.15 0)
+		(at 218.44 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5523,7 +5049,7 @@
 		(fields_autoplaced yes)
 		(uuid "af886cd9-5160-4db1-9cd4-70834b7ec5f1")
 		(property "Reference" "#PWR020"
-			(at 218.44 63.5 0)
+			(at 218.44 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5534,7 +5060,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 62.23 0)
+			(at 218.44 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5544,7 +5070,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 57.15 0)
+			(at 218.44 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5555,7 +5081,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 57.15 0)
+			(at 218.44 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5566,7 +5092,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 218.44 57.15 0)
+			(at 218.44 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5590,7 +5116,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 181.61 43.18 0)
+		(at 181.61 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5600,7 +5126,7 @@
 		(dnp no)
 		(uuid "b23e462b-c48c-406c-a87a-a573a840fd6d")
 		(property "Reference" "SW2"
-			(at 183.896 40.64 0)
+			(at 183.896 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5610,7 +5136,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 181.61 44.958 0)
+			(at 181.61 48.768 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5619,8 +5145,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC7xxJ"
-			(at 181.61 38.1 0)
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
+			(at 181.61 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5631,7 +5157,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/c-k/KSC223J-LFG/1003935?gclsrc=aw.ds&gad_source=1&gad_campaignid=23192198598&gclid=Cj0KCQjw9-PNBhDfARIsABHN6-0UWoWnhXtRIPqCkOOMKCcSmEKl9nY7XohbYAtfssUQ2J2EHFZD0B4aApWpEALw_wcB"
-			(at 181.61 38.1 0)
+			(at 181.61 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5642,7 +5168,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5653,7 +5179,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5664,7 +5190,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5675,7 +5201,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5686,7 +5212,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5697,7 +5223,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5708,7 +5234,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5719,7 +5245,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5730,7 +5256,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5741,7 +5267,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 181.61 43.18 0)
+			(at 181.61 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5845,7 +5371,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 207.01 46.99 0)
+		(at 207.01 50.8 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5856,7 +5382,7 @@
 		(dnp no)
 		(uuid "c49f1fca-3c82-4819-9094-96260f7329e9")
 		(property "Reference" "SW3"
-			(at 204.724 44.45 0)
+			(at 204.724 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5866,7 +5392,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 207.01 48.768 0)
+			(at 207.01 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5875,8 +5401,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC7xxJ"
-			(at 207.01 41.91 0)
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
+			(at 207.01 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5887,7 +5413,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/c-k/KSC223J-LFG/1003935?gclsrc=aw.ds&gad_source=1&gad_campaignid=23192198598&gclid=Cj0KCQjw9-PNBhDfARIsABHN6-0UWoWnhXtRIPqCkOOMKCcSmEKl9nY7XohbYAtfssUQ2J2EHFZD0B4aApWpEALw_wcB"
-			(at 207.01 41.91 0)
+			(at 207.01 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5898,7 +5424,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5909,7 +5435,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5920,7 +5446,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5931,7 +5457,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5942,7 +5468,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5953,7 +5479,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5964,7 +5490,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5975,7 +5501,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5986,7 +5512,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5997,7 +5523,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 207.01 46.99 0)
+			(at 207.01 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6024,7 +5550,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 52.07 0)
+		(at 218.44 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6034,7 +5560,7 @@
 		(dnp no)
 		(uuid "d0324606-dd64-4a19-9202-332ec9e624eb")
 		(property "Reference" "C6"
-			(at 220.98 50.8 0)
+			(at 220.98 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6045,7 +5571,7 @@
 			)
 		)
 		(property "Value" "0.01 μF"
-			(at 220.98 53.34 0)
+			(at 220.98 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6056,7 +5582,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 219.4052 55.88 0)
+			(at 219.4052 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6067,7 +5593,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kyocera-avx/0402YC103KAT2A-62/11268984"
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6078,7 +5604,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6089,7 +5615,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6100,7 +5626,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6111,7 +5637,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6122,7 +5648,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6133,7 +5659,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6144,7 +5670,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6155,7 +5681,7 @@
 			)
 		)
 		(property "Price" "0.1"
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6166,7 +5692,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6177,7 +5703,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 218.44 52.07 0)
+			(at 218.44 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6204,7 +5730,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 194.31 54.61 0)
+		(at 194.31 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6215,7 +5741,7 @@
 		(fields_autoplaced yes)
 		(uuid "d13001c8-3802-47d4-b45a-0768864f0524")
 		(property "Reference" "#PWR019"
-			(at 194.31 60.96 0)
+			(at 194.31 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6226,7 +5752,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 194.31 59.69 0)
+			(at 194.31 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6236,7 +5762,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 54.61 0)
+			(at 194.31 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6247,7 +5773,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 54.61 0)
+			(at 194.31 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6258,7 +5784,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 194.31 54.61 0)
+			(at 194.31 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6282,7 +5808,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 181.61 50.8 0)
+		(at 181.61 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6292,7 +5818,7 @@
 		(dnp no)
 		(uuid "d862692a-3bee-4db6-a75c-956fdf221dd0")
 		(property "Reference" "SW4"
-			(at 183.896 48.26 0)
+			(at 183.896 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6302,7 +5828,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 181.61 52.832 0)
+			(at 181.61 56.642 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6311,8 +5837,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC7xxJ"
-			(at 181.61 45.72 0)
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
+			(at 181.61 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6323,7 +5849,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/c-k/KSC223J-LFG/1003935?gclsrc=aw.ds&gad_source=1&gad_campaignid=23192198598&gclid=Cj0KCQjw9-PNBhDfARIsABHN6-0UWoWnhXtRIPqCkOOMKCcSmEKl9nY7XohbYAtfssUQ2J2EHFZD0B4aApWpEALw_wcB"
-			(at 181.61 45.72 0)
+			(at 181.61 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6334,7 +5860,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6345,7 +5871,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6356,7 +5882,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6367,7 +5893,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6378,7 +5904,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6389,7 +5915,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6400,7 +5926,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6411,7 +5937,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6422,7 +5948,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6433,7 +5959,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 181.61 50.8 0)
+			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6460,7 +5986,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 224.79 114.3 90)
+		(at 227.33 114.3 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6470,7 +5996,7 @@
 		(dnp no)
 		(uuid "e8247ebf-cd07-4794-8d9b-c864454b09ee")
 		(property "Reference" "C12"
-			(at 226.568 110.49 90)
+			(at 229.108 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6481,7 +6007,7 @@
 			)
 		)
 		(property "Value" "0.1 μF"
-			(at 227.33 117.856 90)
+			(at 229.87 117.856 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6492,7 +6018,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 228.6 113.3348 0)
+			(at 231.14 113.3348 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6503,7 +6029,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ca/en/products/detail/kemet/C0603C104K4RACTU/411095"
-			(at 224.79 114.3 0)
+			(at 227.33 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6514,7 +6040,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 224.79 114.3 0)
+			(at 227.33 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6525,7 +6051,7 @@
 			)
 		)
 		(property "Price" "0.08"
-			(at 224.79 114.3 90)
+			(at 227.33 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
