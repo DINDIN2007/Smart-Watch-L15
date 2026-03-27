@@ -2003,12 +2003,6 @@
 		(uuid "be889879-0641-497f-8192-9ba55d89d111")
 	)
 	(junction
-		(at 60.96 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02a878ee-95b5-4f16-ba66-7f0d1db64fab")
-	)
-	(junction
 		(at 128.27 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2202,16 +2196,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 71.12) (xy 60.96 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "302fc717-90af-41b0-89da-185b09a29e20")
-	)
-	(wire
-		(pts
 			(xy 148.59 88.9) (xy 156.21 88.9)
 		)
 		(stroke
@@ -2342,16 +2326,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 71.12) (xy 199.39 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7776dafe-5e8c-41ef-abc8-b22f45b5bd4d")
-	)
-	(wire
-		(pts
 			(xy 45.72 58.42) (xy 66.04 58.42)
 		)
 		(stroke
@@ -2379,16 +2353,6 @@
 			(type default)
 		)
 		(uuid "82b6e50d-d2ca-48f3-a4e0-b4cc2d737d8a")
-	)
-	(wire
-		(pts
-			(xy 199.39 67.31) (xy 205.74 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "862ac5de-a496-405a-abeb-059ba2c4bd21")
 	)
 	(wire
 		(pts
@@ -2562,7 +2526,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 71.12) (xy 193.04 71.12)
+			(xy 193.04 71.12) (xy 205.74 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2572,7 +2536,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 71.12) (xy 66.04 71.12)
+			(xy 53.34 71.12) (xy 66.04 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2710,16 +2674,6 @@
 		)
 		(uuid "0cd6939b-fc0a-4048-b664-015a9903ae58")
 	)
-	(label "VBAT"
-		(at 205.74 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a613d53b-fd70-4f43-9e37-26373aa1587d")
-	)
 	(label "VBUS"
 		(at 212.09 114.3 180)
 		(effects
@@ -2729,16 +2683,6 @@
 			(justify right bottom)
 		)
 		(uuid "b25a7f79-b68e-490a-927f-6ae23dd1ee65")
-	)
-	(label "VBAT"
-		(at 53.34 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c94b54ad-66fa-450c-ab3d-b1b13a7b4f21")
 	)
 	(label "NTC"
 		(at 205.74 76.2 180)
@@ -2793,6 +2737,17 @@
 		)
 		(uuid "832f14e3-1c84-489e-ba56-49ee7ebd51fd")
 	)
+	(hierarchical_label "VBAT"
+		(shape input)
+		(at 205.74 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "95671253-88cc-478d-86c5-fc10eabdc2c6")
+	)
 	(hierarchical_label "P2.07"
 		(shape input)
 		(at 53.34 106.68 180)
@@ -2825,6 +2780,17 @@
 			(justify left)
 		)
 		(uuid "b61fed29-c523-4cc1-a249-79fd2f6be5e7")
+	)
+	(hierarchical_label "VBAT"
+		(shape input)
+		(at 53.34 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b6f1c6a8-7680-4a0c-99e1-a72b381edcf2")
 	)
 	(hierarchical_label "P1.10"
 		(shape input)
@@ -4632,83 +4598,6 @@
 			(project "blystl15_board"
 				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5/a52411fb-3d74-44f3-8a38-1b3fa275b583"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 60.96 71.12 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9dcbfb8e-5940-497f-8d03-38124b7806de")
-		(property "Reference" "#FLG02"
-			(at 60.96 69.215 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 60.96 67.818 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 60.96 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0ad61de8-c1e4-4a99-b8a7-1085e298797e")
-		)
-		(instances
-			(project "blystl15_board"
-				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5/a52411fb-3d74-44f3-8a38-1b3fa275b583"
-					(reference "#FLG02")
 					(unit 1)
 				)
 			)

@@ -2554,16 +2554,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 33.02) (xy 120.65 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfc91ecc-8cd8-42bf-b9be-eaa305570697")
-	)
-	(wire
-		(pts
 			(xy 212.09 78.74) (xy 212.09 81.28)
 		)
 		(stroke
@@ -2672,16 +2662,6 @@
 		)
 		(uuid "fb799545-76f9-4c8b-b38e-4fb5fefd7bf2")
 	)
-	(label "VBAT"
-		(at 120.65 33.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b05c31e0-002e-4f0f-bb9a-5ad0b840fe96")
-	)
 	(label "QVAR_SWIPE"
 		(at 171.45 91.44 0)
 		(effects
@@ -2779,6 +2759,17 @@
 			(justify right)
 		)
 		(uuid "be0ea3bf-7c56-4c93-935f-7b7774ba9ef4")
+	)
+	(hierarchical_label "VBAT"
+		(shape input)
+		(at 125.73 33.02 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c8e4f868-bf27-4c00-aef5-264fe82932b6")
 	)
 	(hierarchical_label "P1.09"
 		(shape input)

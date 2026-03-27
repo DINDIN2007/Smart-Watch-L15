@@ -1416,6 +1416,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 40.64) (xy 254 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3360b264-264b-41da-aaec-baf4c717126f")
+	)
+	(wire
+		(pts
 			(xy 158.75 143.51) (xy 177.8 143.51)
 		)
 		(stroke
@@ -1466,6 +1476,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 40.64) (xy 254 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "446724d5-926c-4fc7-a442-faab2d7b3309")
+	)
+	(wire
+		(pts
 			(xy 158.75 138.43) (xy 177.8 138.43)
 		)
 		(stroke
@@ -1483,6 +1503,16 @@
 			(type default)
 		)
 		(uuid "4b0d4689-404b-45a3-88ac-fee6525e541d")
+	)
+	(wire
+		(pts
+			(xy 241.3 93.98) (xy 254 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d298913-1ee1-49e3-99c0-f3987580b976")
 	)
 	(wire
 		(pts
@@ -3398,6 +3428,16 @@
 				(justify left)
 			)
 		)
+		(pin "VBAT" input
+			(at 241.3 93.98 0)
+			(uuid "ca14de60-d305-473e-a731-2fbad755ae8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "blystl15_board"
 				(path "/a40d8082-672d-4873-9a41-379b45d6c2c5"
@@ -3648,6 +3688,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "VBAT" input
+			(at 241.3 40.64 0)
+			(uuid "97b2ec04-0846-4c77-8423-f1f665b7cdbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
